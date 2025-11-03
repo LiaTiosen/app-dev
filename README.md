@@ -5,7 +5,9 @@
 *New Face of Investigation*
 
 Created by: *Drew Goddard*
+
 Genre: *Crime Drama*
+
 Starring: 
 1. *Kaitlin Olson*
 2. *Daniel Sunjata*
