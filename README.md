@@ -1,12 +1,13 @@
 # Favorite series
-
 ![High Potential](https://github.com/user-attachments/assets/7ab560f6-23ad-49ea-8a2a-cdff5094e9e3)
 **High Potential** 
 *New Face of Investigation*
 
 Created by: *Drew Goddard*
 
+
 Genre: *Crime Drama*
+
 
 Starring: 
 1. *Kaitlin Olson*
