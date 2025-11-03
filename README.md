@@ -1,6 +1,6 @@
 # Favorite series
 
-(![High Potential](https://github.com/user-attachments/assets/7ab560f6-23ad-49ea-8a2a-cdff5094e9e3)
+![High Potential](https://github.com/user-attachments/assets/7ab560f6-23ad-49ea-8a2a-cdff5094e9e3)
 **High Potential** 
 *New Face of Investigation*
 
@@ -10,10 +10,10 @@ Starring:
 1. *Kaitlin Olson*
 2. *Daniel Sunjata*
 3. *Javicia Leslie*
-4. *Deniz Akdeniz *
+4. *Deniz Akdeniz*
 5. *Amirah J*
 6. *Matthew Lamb*
-7. *Judy Reyes *
+7. *Judy Reyes*
 8. *Steve Howey*
 
 Music by:
